@@ -14,31 +14,18 @@ I build backend systems, design APIs, and create structured machine learning cha
 
 ### Tech Stack
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
+**Backend**             **Databases**
+- Node.js                - PostgreSQL
+- Express.js             - Supabase
+- REST APIs              - SQL
 
-**Databases**
-- PostgreSQL
-- Supabase
 
-**Frontend**
-- JavaScript
-- React
+
+**Frontend**      
+- JavaScript               
+- React              
 - HTML & CSS
 
-**Tools & Infrastructure**
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-
-**Machine Learning & AI**
-- Python
-- Google Colab
-- ML Challenge Development
-- AI Evaluation
 
 ### Featured Projects
 
@@ -60,4 +47,3 @@ Working on machine learning challenges for AI evaluation, focusing on reproducib
 ### Connect With Me
 
 - **Portfolio:** [bilalferej.com](https://bilalferej.com)
-- **GitHub:** [@strngcd](https://github.com/strngcd)

@@ -20,17 +20,15 @@ I build backend systems, design APIs, and create structured machine learning cha
 - REST APIs              
 
 
-  **Databases**
-   - PostgreSQL
-   - Supabase
-   - SQL
+**Databases**
+- PostgreSQL
+- SQL
 
 
 
 **Frontend**      
 - JavaScript               
 - React              
-- HTML & CSS
 
 
 ### Featured Projects

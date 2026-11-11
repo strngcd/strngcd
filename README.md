@@ -14,10 +14,16 @@ I build backend systems, design APIs, and create structured machine learning cha
 
 ### Tech Stack
 
-**Backend**             **Databases**
-- Node.js                - PostgreSQL
-- Express.js             - Supabase
-- REST APIs              - SQL
+**Backend**             
+- Node.js               
+- Express.js             
+- REST APIs              
+
+
+  **Databases**
+   - PostgreSQL
+   - Supabase
+   - SQL
 
 
 
